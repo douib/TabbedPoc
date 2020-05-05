@@ -1,0 +1,2 @@
+rootProject.name='TabbedPoc'
+include ':app'
